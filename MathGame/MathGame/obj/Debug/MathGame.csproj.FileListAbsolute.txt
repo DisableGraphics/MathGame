@@ -1,0 +1,11 @@
+K:\Nueva carpeta\VSprojs\MathGame\MathGame\bin\Debug\MathGame.exe.config
+K:\Nueva carpeta\VSprojs\MathGame\MathGame\bin\Debug\MathGame.exe
+K:\Nueva carpeta\VSprojs\MathGame\MathGame\bin\Debug\MathGame.pdb
+K:\Nueva carpeta\VSprojs\MathGame\MathGame\obj\Debug\MathGame.csprojAssemblyReference.cache
+K:\Nueva carpeta\VSprojs\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+K:\Nueva carpeta\VSprojs\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+K:\Nueva carpeta\VSprojs\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+K:\Nueva carpeta\VSprojs\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+K:\Nueva carpeta\VSprojs\MathGame\MathGame\obj\Debug\MathGame.exe
+K:\Nueva carpeta\VSprojs\MathGame\MathGame\obj\Debug\MathGame.pdb
+K:\Nueva carpeta\VSprojs\MathGame\MathGame\obj\Debug\MathGame.Juego.resources
